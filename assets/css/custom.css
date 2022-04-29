@@ -1,15 +1,10 @@
-/*.services-grid {
-	padding: 40px 15px;
-	background: #9bcaf0;
+.back-to-top, .input-group .subscribe-btn{
+	background: #0aa7f4;
 }
-*/
-/*.services-grid .content .title a{
-	color: #2522ba;
-}*/
 
-/*.services-grid .active .content .title a{
-	color: #fff;
-}*/
+:root {
+	--color-primary: #10a7f4;
+}
 
 .services-grid {
 	background: #29292f;
